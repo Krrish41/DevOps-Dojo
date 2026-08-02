@@ -1,5 +1,7 @@
 # DevOps Dojo
 
+🌐 **Live Demo**: [DevOps-Dojo](https://krrish41.github.io/DevOps-Dojo/)
+
 A simple HTML demonstration project created for learning DevOps concepts at IET (Institute of Engineering and Technology). This project showcases basic HTML structure and serves as a starting point for exploring DevOps practices.
 
 ## Overview
