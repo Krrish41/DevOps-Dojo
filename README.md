@@ -1,8 +1,8 @@
 # DevOps Dojo
 
-🌐 **Live Demo**: [DevOps-Dojo](https://krrish41.github.io/DevOps-Dojo/)
-
 A simple HTML demonstration project created for learning DevOps concepts at IET (Institute of Engineering and Technology). This project showcases basic HTML structure and serves as a starting point for exploring DevOps practices.
+
+**Live Demo:** [https://krrish41.github.io/DevOps-Dojo/](https://krrish41.github.io/DevOps-Dojo/)
 
 ## Overview
 
@@ -19,8 +19,8 @@ DevOps-Dojo/
 
 ## Pages
 
-* **index.html** — Landing page with links to the welcome page
-* **index2.html** — Welcome page with a greeting message
+- **index.html** — Landing page with links to the welcome page
+- **index2.html** — Welcome page with a greeting message
 
 ## Getting Started
 
@@ -31,6 +31,16 @@ DevOps-Dojo/
    ```
 
 2. Open `index.html` in any web browser to view the project.
+
+## DevOps Learning Objectives
+
+This project is designed to practice:
+
+- **Version Control**: Git workflows, branching, merging
+- **CI/CD**: GitHub Actions for automated testing and deployment
+- **Containerization**: Docker basics (optional extension)
+- **Deployment**: GitHub Pages static site hosting
+- **Monitoring**: Basic uptime checks
 
 ## License
 
