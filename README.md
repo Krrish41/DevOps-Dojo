@@ -1,31 +1,47 @@
-# Devops Dojo
-> Devops Dojo Website Tutorial
+# DevOps Dojo
+
+A simple HTML demonstration project created for learning DevOps concepts at IET (Institute of Engineering and Technology). This project showcases basic HTML structure and serves as a starting point for exploring DevOps practices.
+
+**Live Demo:** [https://krrish41.github.io/DevOps-Dojo/](https://krrish41.github.io/DevOps-Dojo/)
 
 ## Overview
-This project, **DevOps-Dojo**, was developed to solve specific challenges or explore new technologies. It serves as a demonstration of coding practices and problem-solving skills.
 
-## Highlights / Key Features
-- **Core Functionality**: Delivers on the primary objective defined in the project description.
-- **Clean Implementation**: Codebase structured for readability and maintenance.
+DevOps Dojo is a minimal web project built with plain HTML. It demonstrates basic web development concepts and serves as a practice ground for learning DevOps workflows including version control, CI/CD, and deployment.
 
-## Getting Started / Installation
+## Project Structure
+
+```
+DevOps-Dojo/
+├── index.html    # Main landing page
+├── index2.html   # Secondary page (Welcome)
+└── README.md     # This file
+```
+
+## Pages
+
+- **index.html** — Landing page with links to the welcome page
+- **index2.html** — Welcome page with a greeting message
+
+## Getting Started
+
 1. Clone the repository:
-   \\ash
+   ```bash
    git clone https://github.com/Krrish41/DevOps-Dojo.git
    cd DevOps-Dojo
-   \2. Follow standard setup instructions for a HTML project.
+   ```
 
-## Usage
-Explore the source code to understand the internal workings and run the project locally.
+2. Open `index.html` in any web browser to view the project.
 
-## Built With
-- **HTML** - Primary language used.
+## DevOps Learning Objectives
 
-## Contributing
-Contributions are always welcome! Feel free to open an issue or submit a PR.
+This project is designed to practice:
 
-## License & Credits
-Open source. Check the repository for the exact LICENSE file if available.
+- **Version Control**: Git workflows, branching, merging
+- **CI/CD**: GitHub Actions for automated testing and deployment
+- **Containerization**: Docker basics (optional extension)
+- **Deployment**: GitHub Pages static site hosting
+- **Monitoring**: Basic uptime checks
 
-## Support & Contact
-Contact the maintainer at krrish4173@gmail.com.
+## License
+
+This project is open source and available under the MIT License.
